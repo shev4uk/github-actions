@@ -1,0 +1,15 @@
+.text-color {
+  color: blue;
+  text-indent: 20px;
+}
+div {
+  width: 80%;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: 1px solid green;
+  border-radius: 10px;
+}
+div p {
+  margin-bottom: 24px;
+}
