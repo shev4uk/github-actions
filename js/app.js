@@ -1,1 +1,2 @@
-let str = "test";
+const str = 'test'
+console.log(str)
